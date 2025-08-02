@@ -33,7 +33,6 @@
 
 - Deepening my JavaScript skills  
 - Exploring the **MERN Stack** (MongoDB, Express, React, Node.js)  
-- Building my **first full-stack app**  
 - Preparing to contribute to **open source**
 
 ---

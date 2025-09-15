@@ -36,7 +36,6 @@ availability: Open for Internships & Collaborations
 
 **Software Engineering Student** with a passion for building robust, scalable applications using modern technologies. I specialize in full-stack development and have experience across the entire web development lifecycle.
 
-
 <br clear="right"/>
 
 ---
@@ -57,8 +56,8 @@ availability: Open for Internships & Collaborations
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
-[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](YOUR_CV_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_CV_LINK_HERE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-kejja-6b5137341/)
 [![Email](https://img.shields.io/badge/Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hibakejja@ump.ac.ma)
 
@@ -130,35 +129,6 @@ availability: Open for Internships & Collaborations
 
 ---
 
-## Current Development Focus
-
-```javascript
-// Current Development Status
-const developmentFocus = {
-  projects: [
-    "Full-stack web applications using MERN stack",
-    "RESTful API development with Node.js", 
-    "Responsive UI components with React & TypeScript"
-  ],
-  
-  learning: [
-    "Advanced React patterns and state management",
-    "Cloud deployment and DevOps practices"
-  ],
-  
-  technologies: [
-    "React.js, Next.js, TypeScript",
-    "Node.js, Express.js, MongoDB", 
-    "Docker, AWS/Oracle Cloud"
-  ],
-  
-  goals: [
-    "Contribute to major open-source projects",
-    "Build production-ready applications",
-    "Establish thought leadership in web development"
-  ]
-};
-```
 
 
 ## Code Quality Metrics
@@ -182,12 +152,6 @@ Python        ██░░░░░░░░░░░░░░░░░░  12%
 
 ---
 
-
-</div>
-
----
-
-
 ## Professional Standards
 
 ```bash
@@ -198,19 +162,6 @@ git commit -m "test: ensure robust error handling"
 git commit -m "refactor: optimize for performance and maintainability"
 ```
 
-<div align="center">
-
-### Contact for Professional Opportunities
-
-**Email:** [hibakejja@ump.ac.ma](mailto:hibakejja@ump.ac.ma)  
-**LinkedIn:** [Professional Profile](https://www.linkedin.com/in/hiba-kejja-6b5137341/)  
-**Portfolio:** [View My Work](YOUR_PORTFOLIO_LINK_HERE)
-
-**Response Time:** Within 24 hours for professional inquiries
-
-</div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 

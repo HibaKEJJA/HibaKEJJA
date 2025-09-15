@@ -1,139 +1,224 @@
-# I'm Hiba KEJJA
+<div align="center">
+  
+<!-- Dynamic Typing Animation Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hiba+KEJJA;Software+Engineering+Student;Full-Stack+Developer;Problem+Solver+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
-## Software Engineering Student | MERN Stack Developer
+<!-- Professional Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=HIBA%20KEJJA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Software+Engineering+Student;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
-### Follow to get New Updates
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=HibaKEJJA&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
-
----
-
-### 🌐 **My Portfolio** 
-[🔗 **Check out my work**](YOUR_PORTFOLIO_LINK_HERE)
-
-### 📄 **Check My CV**
-[📋 **View my resume**](YOUR_CV_LINK_HERE)
-
----
-
-### 🤝 **Connect with Me:**
-
+<!-- Professional Status Badges -->
 <p align="center">
-<a href="mailto:hibakejja@ump.ac.ma" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="50" />
-</a>
-<a href="https://www.linkedin.com/in/hiba-kejja-6b5137341/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-</a>
-<a href="YOUR_WHATSAPP_LINK" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="50" />
-</a>
-<a href="YOUR_PORTFOLIO_LINK_HERE" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="40" width="50" />
-</a>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge&labelColor=2d3748" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&labelColor=2d3748" />
+  <img src="https://img.shields.io/badge/Experience-Growing-orange?style=for-the-badge&labelColor=2d3748" />
 </p>
 
----
-
-### 🛠️ **Languages & Tools:**
-
-#### **Frontend Development:**
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-
-</div>
-
-#### **Backend Development:**
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
-
-</div>
-
-#### **Programming Languages:**
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-
-</div>
-
-#### **Tools & Technologies:**
-<div align="center">
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="50" height="50"/>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=HibaKEJJA&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-### 📊 **GitHub Stats:**
+## About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```yaml
+name: Hiba KEJJA
+role: Software Engineering Student
+location: Morocco
+specialization: Full-Stack Development
+current_focus: Modern Web Technologies
+philosophy: Clean Code & Scalable Solutions
+availability: Open for Internships & Collaborations
+```
+
+**Software Engineering Student** with a passion for building robust, scalable applications using modern technologies. I specialize in full-stack development and have experience across the entire web development lifecycle.
+
+
+<br clear="right"/>
+
+---
+
+## Professional Achievements
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=HibaKEJJA&show_icons=true&theme=algolia&hide_border=true&locale=en&custom_title=Hiba's%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HibaKEJJA&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%" />
+| Certification | Issuing Organization | Completion Year | Skills Validated |
+|:---|:---|:---:|:---|
+| Oracle Cloud Infrastructure AI Foundations | Oracle Corporation | 2024 | Cloud Computing, AI/ML Fundamentals |
 
 </div>
 
 ---
 
-### 📈 **Most Used Languages:**
+## Professional Links & Contact
 
 <div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](YOUR_CV_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-kejja-6b5137341/)
+[![Email](https://img.shields.io/badge/Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hibakejja@ump.ac.ma)
 
-**Based on my learning journey and projects:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-85.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-7.75%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-4.2%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-2.65%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-
-
-
-
----
-
-### 📈 **Contribution Activity:**
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HibaKEJJA&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
 
+## Technical Expertise
+
 <div align="center">
-  <h3>⭐️ Show some love and give this repo a star if you found it helpful! ⭐️</h3>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,dotnet" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
+</p>
+
+### Development Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,linux,nginx,webpack,babel" />
+</p>
+
+### Hardware & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+</div>
+
+---
+
+## Development Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=HibaKEJJA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaKEJJA&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HibaKEJJA&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HibaKEJJA&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+## Current Development Focus
+
+```javascript
+// Current Development Status
+const developmentFocus = {
+  projects: [
+    "Full-stack web applications using MERN stack",
+    "RESTful API development with Node.js", 
+    "Responsive UI components with React & TypeScript"
+  ],
+  
+  learning: [
+    "Advanced React patterns and state management",
+    "Cloud deployment and DevOps practices"
+  ],
+  
+  technologies: [
+    "React.js, Next.js, TypeScript",
+    "Node.js, Express.js, MongoDB", 
+    "Docker, AWS/Oracle Cloud"
+  ],
+  
+  goals: [
+    "Contribute to major open-source projects",
+    "Build production-ready applications",
+    "Establish thought leadership in web development"
+  ]
+};
+```
+
+
+## Code Quality Metrics
+
+<div align="center">
+
+**Weekly Development Activity**
+
+```
+JavaScript    ████████████████░░░░  78%
+TypeScript    ██████████░░░░░░░░░░  48%
+React         ████████░░░░░░░░░░░░  42%
+Node.js       ██████░░░░░░░░░░░░░░  32%
+CSS/SCSS      ████░░░░░░░░░░░░░░░░  22%
+Python        ██░░░░░░░░░░░░░░░░░░  12%
+```
+
+*Commit Frequency: Daily | Code Review Participation: Active | Documentation: Comprehensive*
+
+</div>
+
+---
+
+
+</div>
+
+---
+
+
+## Professional Standards
+
+```bash
+# Development Principles
+git commit -m "feat: implement clean, scalable solutions"
+git commit -m "docs: maintain comprehensive documentation" 
+git commit -m "test: ensure robust error handling"
+git commit -m "refactor: optimize for performance and maintainability"
+```
+
+<div align="center">
+
+### Contact for Professional Opportunities
+
+**Email:** [hibakejja@ump.ac.ma](mailto:hibakejja@ump.ac.ma)  
+**LinkedIn:** [Professional Profile](https://www.linkedin.com/in/hiba-kejja-6b5137341/)  
+**Portfolio:** [View My Work](YOUR_PORTFOLIO_LINK_HERE)
+
+**Response Time:** Within 24 hours for professional inquiries
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+**Committed to Excellence in Software Development**
+
+![Built with Professional Standards](https://img.shields.io/badge/Built%20with-Professional%20Standards-success?style=for-the-badge)
+![Always Improving](https://img.shields.io/badge/Status-Always%20Improving-blue?style=for-the-badge)
+
 </div>

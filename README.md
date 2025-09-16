@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge&labelColor=2d3748" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&labelColor=2d3748" />
   <img src="https://img.shields.io/badge/Experience-Growing-orange?style=for-the-badge&labelColor=2d3748" />
+  <img src="https://img.shields.io/badge/Repositories-Private%20%26%20Secure-important?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <!-- Profile Views Counter -->

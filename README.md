@@ -83,12 +83,12 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 ### Development Tools & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,linux,nginx,webpack,babel,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,postman,linux,webpack,babel,mysql" />
 </p>
 
 ### Methodologies & Networking
@@ -111,16 +111,16 @@
 ## Development Statistics
 
 <div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=HibaKEJJA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaKEJJA&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</td>
-</tr>
-</table>
+    <table>
+      <tr>
+        <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=HibaKEJJA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+        </td>
+        <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaKEJJA&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+        </td>
+      </tr>
+    </table>
 </div>
 
 <div align="center">

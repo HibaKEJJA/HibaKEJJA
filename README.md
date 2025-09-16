@@ -111,23 +111,13 @@
 ## Development Statistics
 
 <div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=HibaKEJJA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaKEJJA&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</td>
-</tr>
-</table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HibaKEJJA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaKEJJA&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com/?user=HibaKEJJA&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HibaKEJJA&theme=dark&hide_border=false&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9&border=58a6ff" />
 
 </div>
 

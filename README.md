@@ -14,7 +14,9 @@
 </p>
 
 <!-- Profile Views Counter -->
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=HibaKEJJA&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 </div>
 
@@ -22,7 +24,13 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<table>
+<tr>
+<td width="50%">
 
 ```yaml
 name: Hiba KEJJA
@@ -34,19 +42,40 @@ philosophy: Clean Code & Scalable Solutions
 availability: Open for Internships & Collaborations
 ```
 
-**Software Engineering Student** with a passion for building robust, scalable applications using modern technologies. I specialize in full-stack development and have experience across the entire web development lifecycle.
 
-<br clear="right"/>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 ---
 
 ## Professional Achievements
 
 <div align="center">
-  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+
 | Certification | Issuing Organization | Completion Year | Skills Validated |
-|:---|:---|:---:|:---|
-| Oracle Cloud Infrastructure AI Foundations | Oracle Corporation | 2024 | Cloud Computing, AI/ML Fundamentals |
+|:-------------:|:-------------------:|:---------------:|:---------------:|
+| <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="60"><br>**Oracle Cloud Infrastructure AI Foundations** | **Oracle Corporation** | **2024** | **Cloud Computing**<br>*Infrastructure design and deployment*<br><br>**AI/ML Fundamentals**<br>*Machine learning algorithms and implementation* |
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/CERTIFIED-Oracle%20Cloud%20AI%20Foundations-FF0000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1f2937">
+<img src="https://img.shields.io/badge/YEAR-2024-00D4AA?style=for-the-badge&labelColor=1f2937">
+<img src="https://img.shields.io/badge/STATUS-Verified-4CAF50?style=for-the-badge&labelColor=1f2937">
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284175-f47e6979-9990-4845-b9bc-29e04a09986c.gif" width="200">
+
+**Commitment to Continuous Learning & Professional Excellence**
 
 </div>
 
@@ -128,39 +157,6 @@ availability: Open for Internships & Collaborations
 </div>
 
 ---
-
-
-
-## Code Quality Metrics
-
-<div align="center">
-
-**Weekly Development Activity**
-
-```
-JavaScript    ████████████████░░░░  78%
-TypeScript    ██████████░░░░░░░░░░  48%
-React         ████████░░░░░░░░░░░░  42%
-Node.js       ██████░░░░░░░░░░░░░░  32%
-CSS/SCSS      ████░░░░░░░░░░░░░░░░  22%
-Python        ██░░░░░░░░░░░░░░░░░░  12%
-```
-
-*Commit Frequency: Daily | Code Review Participation: Active | Documentation: Comprehensive*
-
-</div>
-
----
-
-## Professional Standards
-
-```bash
-# Development Principles
-git commit -m "feat: implement clean, scalable solutions"
-git commit -m "docs: maintain comprehensive documentation" 
-git commit -m "test: ensure robust error handling"
-git commit -m "refactor: optimize for performance and maintainability"
-```
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>

@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Dynamic Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hiba+KEJJA;Software+Engineering+Student;Full-Stack+Developer;Problem+Solver+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hiba+KEJJA;Software+Engineering+Student;Problem+Solver+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
 <!-- Professional Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=HIBA%20KEJJA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=16" width="100%"/>

@@ -20,55 +20,27 @@
 
 </div>
 
----
-
-## About Me
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-```yaml
-name: Hiba KEJJA
-role: Software Engineering Student
-location: Morocco
-specialization: Full-Stack Development
-current_focus: Modern Web Technologies
-philosophy: Clean Code & Scalable Solutions
-availability: Open for Internships & Collaborations
-```
 
 
-</tr>
-</table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 ---
 
 ## Professional Achievements
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+
 
 <div align="center">
 
 | Certification | Issuing Organization | Completion Year | Skills Validated |
 |:-------------:|:-------------------:|:---------------:|:---------------:|
-| <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="60"><br>**Oracle Cloud Infrastructure AI Foundations** | **Oracle Corporation** | **2024** | **Cloud Computing**<br>*Infrastructure design and deployment*<br><br>**AI/ML Fundamentals**<br>*Machine learning algorithms and implementation* |
+| <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" width="90"><br>**Oracle Cloud Infrastructure AI Foundations** | **Oracle Corporation** | **2025** | **Cloud Computing**<br>*Infrastructure design and deployment*<br><br>**AI/ML Fundamentals**<br>*Machine learning algorithms and implementation* |
 
 </div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/CERTIFIED-Oracle%20Cloud%20AI%20Foundations-FF0000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1f2937">
-<img src="https://img.shields.io/badge/YEAR-2024-00D4AA?style=for-the-badge&labelColor=1f2937">
+<img src="https://img.shields.io/badge/YEAR-2025-00D4AA?style=for-the-badge&labelColor=1f2937">
 <img src="https://img.shields.io/badge/STATUS-Verified-4CAF50?style=for-the-badge&labelColor=1f2937">
 </div>
 
@@ -105,7 +77,7 @@ availability: Open for Internships & Collaborations
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel" />
 </p>
 
 ### Programming Languages

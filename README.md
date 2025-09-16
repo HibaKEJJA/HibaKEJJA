@@ -127,7 +127,7 @@
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com/?user=HibaKEJJA&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=HibaKEJJA&theme=github-dark&hide_border=true" />
 
 </div>
 

@@ -94,9 +94,10 @@
 ### Methodologies & Networking
 <p>
   
-  <img src="https://img.shields.io/badge/Merise-Modeling-FF6B35?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNMP-Protocol-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Security-28A745?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/UML-Diagram-FFB400?style=for-the-badge&logo=simpleicons&logoColor=white" />
+<img src="https://img.shields.io/badge/Merise-Modeling-FF6B35?style=for-the-badge&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/SNMP-Protocol-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Security-28A745?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
 
 ### Hardware & IoT

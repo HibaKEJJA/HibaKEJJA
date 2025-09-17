@@ -73,7 +73,7 @@
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,vite,tailwind,html,css,bootstrap" />
 </p>
 
 ### Backend Development
